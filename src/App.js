@@ -57,7 +57,7 @@ function App() {
   
     }>
     <h1 className="
-    font-extrabold sm:text-3xl text-lg text-center text-transparent drop-shadow-lg
+    font-extrabold sm:text-3xl text-xl text-center text-transparent drop-shadow-sm
     bg-clip-text bg-gradient-to-tr from-white to-gray-100
     mb-4">
       Celcius to Farenheit Converter</h1>
