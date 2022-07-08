@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/simple-celcius-to-farenheit-converter/static/css/main.284866cc.css",
-    "main.js": "/simple-celcius-to-farenheit-converter/static/js/main.2ba1e52f.js",
-    "static/js/787.fd58864e.chunk.js": "/simple-celcius-to-farenheit-converter/static/js/787.fd58864e.chunk.js",
-    "index.html": "/simple-celcius-to-farenheit-converter/index.html",
-    "main.284866cc.css.map": "/simple-celcius-to-farenheit-converter/static/css/main.284866cc.css.map",
-    "main.2ba1e52f.js.map": "/simple-celcius-to-farenheit-converter/static/js/main.2ba1e52f.js.map",
-    "787.fd58864e.chunk.js.map": "/simple-celcius-to-farenheit-converter/static/js/787.fd58864e.chunk.js.map"
+    "main.css": "/practice/static/css/main.284866cc.css",
+    "main.js": "/practice/static/js/main.c860d3b4.js",
+    "static/js/787.fd58864e.chunk.js": "/practice/static/js/787.fd58864e.chunk.js",
+    "index.html": "/practice/index.html",
+    "main.284866cc.css.map": "/practice/static/css/main.284866cc.css.map",
+    "main.c860d3b4.js.map": "/practice/static/js/main.c860d3b4.js.map",
+    "787.fd58864e.chunk.js.map": "/practice/static/js/787.fd58864e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284866cc.css",
-    "static/js/main.2ba1e52f.js"
+    "static/js/main.c860d3b4.js"
   ]
 }
